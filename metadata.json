@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Prompt Token Optimizer",
+  "description": "An application to analyze and optimize your prompts for Gemini, helping you reduce token usage and save costs. Enter your prompt, and the AI will suggest a more concise version while showing the token savings.",
+  "requestFramePermissions": []
+}
